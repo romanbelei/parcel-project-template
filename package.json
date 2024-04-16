@@ -1,12 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "roman",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://romanbelei.github.io/shop/",
+  "homepage": "https://romanbelei.github.io/roman/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /shop/"
+    "build": "parcel build src/*.html --public-url /roman/"
   },
   "repository": {
     "type": "git",
